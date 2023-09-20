@@ -11,3 +11,8 @@ node_modules/
 dist/
 build/
 coverage/
+
+uploads/**/*.jpg
+uploads/**/*.jpeg
+uploads/**/*.gif
+uploads/**/*.png
